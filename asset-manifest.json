@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ruch_react/static/css/main.49d9752b.css",
+    "main.js": "/Ruch_react/static/js/main.d9db5ea5.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Ruch_react/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Ruch_react/index.html",
+    "main.49d9752b.css.map": "/Ruch_react/static/css/main.49d9752b.css.map",
+    "main.d9db5ea5.js.map": "/Ruch_react/static/js/main.d9db5ea5.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Ruch_react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49d9752b.css",
+    "static/js/main.d9db5ea5.js"
+  ]
+}
